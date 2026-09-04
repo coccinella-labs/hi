@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/basebin/hi/main/.github/assets/thumbnail.png" alt="hi" width="100%">
+</p>
+
 # Token Classification Model
 
 Fine-tunes BERT for Named Entity Recognition (NER) on CoNLL-2003 dataset.
