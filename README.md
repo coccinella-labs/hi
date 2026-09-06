@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/basebin/hi/main/.github/assets/thumbnail.png" alt="hi" width="100%">
+  <img src="https://raw.githubusercontent.com/Coccinella-Labs/hi/main/.github/assets/thumbnail.png" alt="hi" width="100%">
 </p>
 
 # Token Classification Model
